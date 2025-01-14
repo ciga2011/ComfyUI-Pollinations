@@ -1,0 +1,15 @@
+[project]
+name = "pollinations"
+description = "Generate images from text prompts using Pollinations' AI models for free."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ciga2011/ComfyUI-Pollinations"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Pollinations"
+Icon = ""
