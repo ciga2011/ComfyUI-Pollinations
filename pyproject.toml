@@ -1,7 +1,7 @@
 [project]
 name = "pollinations"
 description = "Generate images from text prompts using Pollinations' AI models for free."
-version = "1.0.1"
+version = "1.0.2"
 license = {file = "LICENSE"}
 dependencies = []
 
