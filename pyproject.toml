@@ -12,4 +12,4 @@ Repository = "https://github.com/ciga2011/ComfyUI-Pollinations"
 [tool.comfy]
 PublisherId = ""
 DisplayName = "ComfyUI-Pollinations"
-Icon = ""
+Icon = "icon256.png"
